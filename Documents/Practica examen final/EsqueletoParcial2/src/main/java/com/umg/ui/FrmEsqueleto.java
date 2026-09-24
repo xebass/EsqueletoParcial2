@@ -287,6 +287,7 @@ public class FrmEsqueleto extends javax.swing.JFrame {
         // 3. Compilar: JasperCompileManager.compileReport(stream).
         // 4. Fuente de datos: new JRBeanCollectionDataSource(lista).
         // 5. Llenar y mostrar: JasperFillManager.fillReport(...) y JasperViewer.viewReport(...).
+        //xd
     }
 
     public static void main(String args[]) {
