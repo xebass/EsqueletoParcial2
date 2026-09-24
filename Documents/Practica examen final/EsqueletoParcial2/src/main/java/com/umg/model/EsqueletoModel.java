@@ -20,6 +20,5 @@ public class EsqueletoModel {
     // 3. GETTERS Y SETTERS
     
     // 4. TO STRING
-    
 }
 
